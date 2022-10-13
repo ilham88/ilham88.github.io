@@ -1,13 +1,13 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "WEB JUALANKU"
+email: nuyulham@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/ilham88.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'iam'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -24,14 +24,14 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  iam:
+    name: Iam
+    display_name: Iam
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: nuyulham@gmail.com
+    web: https://ilham88.github.io
+    twitter: https://twitter.com/iamklopers
+    description: "WEB JUALAN"
   john:
     name: John
     display_name: John
